@@ -2,7 +2,7 @@
   "federationId": "lawallet.ar",
   "endpoints": {
     "gateway": "https://api.lawallet.ar",
-    "lightningDomain": "https://lightning-domain-propio.vercel.app/"
+    "lightningDomain": "https://lightning-domain-propio.vercel.app"
   },
   "relaysList": [
     "wss://relay.damus.io",
